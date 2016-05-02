@@ -157,11 +157,3 @@ class Help:
         else:    
             self.pages[self.currentPageNum].pack()
 
-
-##def main():
-##    root = Tk()
-##    helper = Help(root)
-##    
-##main()
-##    
-##        
